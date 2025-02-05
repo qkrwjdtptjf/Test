@@ -92,3 +92,4 @@ public class AnswerController {
         return String.format("redirect:/question/detail/%s#answer_%s", answer.getQuestion().getId(), answer.getId());
     }
 }
+//lk;lk
